@@ -2,9 +2,9 @@
 
 /**
  * @wordpress-plugin
- * Plugin Name:       Kntnt No Old Slug
+ * Plugin Name:       Kntnt Disable Old Slugs
  * Plugin URI:        https://www.kntnt.com/
- * Description:       Prevents WordPress to store and use an old slug of posts
+ * Description:       Prevents WordPress to store and use an old slugs of posts
  * Version:           1.0.0
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
